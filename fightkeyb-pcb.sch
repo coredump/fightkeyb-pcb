@@ -1,0 +1,682 @@
+EESchema Schematic File Version 4
+LIBS:fightkeyb-pcb-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 5BFEF59D
+P 2350 3250
+F 0 "K2" H 2350 3483 60  0000 C CNN
+F 1 "KEYSW" H 2350 3150 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 2350 3250 60  0001 C CNN
+F 3 "" H 2350 3250 60  0000 C CNN
+	1    2350 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 5BFEF7AB
+P 3350 3250
+F 0 "K3" H 3350 3483 60  0000 C CNN
+F 1 "KEYSW" H 3350 3150 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 3350 3250 60  0001 C CNN
+F 3 "" H 3350 3250 60  0000 C CNN
+	1    3350 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 5BFEF7F3
+P 4300 3250
+F 0 "K4" H 4300 3483 60  0000 C CNN
+F 1 "KEYSW" H 4300 3150 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 4300 3250 60  0001 C CNN
+F 3 "" H 4300 3250 60  0000 C CNN
+	1    4300 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 5BFEF82E
+P 5200 3250
+F 0 "K5" H 5200 3483 60  0000 C CNN
+F 1 "KEYSW" H 5200 3150 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 5200 3250 60  0001 C CNN
+F 3 "" H 5200 3250 60  0000 C CNN
+	1    5200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 5BFEF8F9
+P 9750 3250
+F 0 "K6" H 9750 3483 60  0000 C CNN
+F 1 "KEYSW" H 9750 3150 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 9750 3250 60  0001 C CNN
+F 3 "" H 9750 3250 60  0000 C CNN
+	1    9750 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 5BFEF999
+P 3350 4050
+F 0 "K7" H 3350 4283 60  0000 C CNN
+F 1 "KEYSW" H 3350 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 3350 4050 60  0001 C CNN
+F 3 "" H 3350 4050 60  0000 C CNN
+	1    3350 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K8
+U 1 1 5BFEFA6E
+P 4300 4050
+F 0 "K8" H 4300 4283 60  0000 C CNN
+F 1 "KEYSW" H 4300 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 4300 4050 60  0001 C CNN
+F 3 "" H 4300 4050 60  0000 C CNN
+	1    4300 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K10
+U 1 1 5BFEFABC
+P 7100 4050
+F 0 "K10" H 7100 4283 60  0000 C CNN
+F 1 "KEYSW" H 7100 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 7100 4050 60  0001 C CNN
+F 3 "" H 7100 4050 60  0000 C CNN
+	1    7100 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K11
+U 1 1 5BFEFB33
+P 8000 4050
+F 0 "K11" H 8000 4283 60  0000 C CNN
+F 1 "KEYSW" H 8000 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 8000 4050 60  0001 C CNN
+F 3 "" H 8000 4050 60  0000 C CNN
+	1    8000 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K12
+U 1 1 5BFEFB87
+P 8850 4050
+F 0 "K12" H 8850 4283 60  0000 C CNN
+F 1 "KEYSW" H 8850 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 8850 4050 60  0001 C CNN
+F 3 "" H 8850 4050 60  0000 C CNN
+	1    8850 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K13
+U 1 1 5BFEFBFA
+P 9750 4050
+F 0 "K13" H 9750 4283 60  0000 C CNN
+F 1 "KEYSW" H 9750 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 9750 4050 60  0001 C CNN
+F 3 "" H 9750 4050 60  0000 C CNN
+	1    9750 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K9
+U 1 1 5BFEFC70
+P 5200 4050
+F 0 "K9" H 5200 4283 60  0000 C CNN
+F 1 "KEYSW" H 5200 3950 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 5200 4050 60  0001 C CNN
+F 3 "" H 5200 4050 60  0000 C CNN
+	1    5200 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K14
+U 1 1 5BFF03AF
+P 3350 4600
+F 0 "K14" H 3350 4833 60  0000 C CNN
+F 1 "KEYSW" H 3350 4500 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 3350 4600 60  0001 C CNN
+F 3 "" H 3350 4600 60  0000 C CNN
+	1    3350 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K15
+U 1 1 5BFF0419
+P 4300 4650
+F 0 "K15" H 4300 4883 60  0000 C CNN
+F 1 "KEYSW" H 4300 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 4300 4650 60  0001 C CNN
+F 3 "" H 4300 4650 60  0000 C CNN
+	1    4300 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K16
+U 1 1 5BFF04A2
+P 5200 4650
+F 0 "K16" H 5200 4883 60  0000 C CNN
+F 1 "KEYSW" H 5200 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 5200 4650 60  0001 C CNN
+F 3 "" H 5200 4650 60  0000 C CNN
+	1    5200 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K17
+U 1 1 5BFF0526
+P 7100 4650
+F 0 "K17" H 7100 4883 60  0000 C CNN
+F 1 "KEYSW" H 7100 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 7100 4650 60  0001 C CNN
+F 3 "" H 7100 4650 60  0000 C CNN
+	1    7100 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K18
+U 1 1 5BFF059D
+P 8000 4650
+F 0 "K18" H 8000 4883 60  0000 C CNN
+F 1 "KEYSW" H 8000 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 8000 4650 60  0001 C CNN
+F 3 "" H 8000 4650 60  0000 C CNN
+	1    8000 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K19
+U 1 1 5BFF0619
+P 8850 4650
+F 0 "K19" H 8850 4883 60  0000 C CNN
+F 1 "KEYSW" H 8850 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 8850 4650 60  0001 C CNN
+F 3 "" H 8850 4650 60  0000 C CNN
+	1    8850 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K20
+U 1 1 5BFF06B2
+P 9750 4650
+F 0 "K20" H 9750 4883 60  0000 C CNN
+F 1 "KEYSW" H 9750 4550 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 9750 4650 60  0001 C CNN
+F 3 "" H 9750 4650 60  0000 C CNN
+	1    9750 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K21
+U 1 1 5BFF0742
+P 5200 5600
+F 0 "K21" H 5200 5833 60  0000 C CNN
+F 1 "KEYSW" H 5200 5500 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 5200 5600 60  0001 C CNN
+F 3 "" H 5200 5600 60  0000 C CNN
+	1    5200 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5BFF0818
+P 2000 3400
+F 0 "D1" V 2046 3321 50  0000 R CNN
+F 1 "D" V 1955 3321 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2000 3400 50  0001 C CNN
+F 3 "~" H 2000 3400 50  0001 C CNN
+	1    2000 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5BFF1CCD
+P 2950 3400
+F 0 "D2" V 2996 3321 50  0000 R CNN
+F 1 "D" V 2905 3321 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2950 3400 50  0001 C CNN
+F 3 "~" H 2950 3400 50  0001 C CNN
+	1    2950 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5BFF1D7F
+P 3900 3400
+F 0 "D3" V 3946 3321 50  0000 R CNN
+F 1 "D" V 3855 3321 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3900 3400 50  0001 C CNN
+F 3 "~" H 3900 3400 50  0001 C CNN
+	1    3900 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5BFF1E01
+P 4800 3400
+F 0 "D4" V 4846 3321 50  0000 R CNN
+F 1 "D" V 4755 3321 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4800 3400 50  0001 C CNN
+F 3 "~" H 4800 3400 50  0001 C CNN
+	1    4800 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5BFF1ED3
+P 2950 4200
+F 0 "D6" V 2996 4121 50  0000 R CNN
+F 1 "D" V 2905 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2950 4200 50  0001 C CNN
+F 3 "~" H 2950 4200 50  0001 C CNN
+	1    2950 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5BFF1F43
+P 3900 4200
+F 0 "D7" V 3946 4121 50  0000 R CNN
+F 1 "D" V 3855 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3900 4200 50  0001 C CNN
+F 3 "~" H 3900 4200 50  0001 C CNN
+	1    3900 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5BFF1FC3
+P 4800 4200
+F 0 "D8" V 4846 4121 50  0000 R CNN
+F 1 "D" V 4755 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4800 4200 50  0001 C CNN
+F 3 "~" H 4800 4200 50  0001 C CNN
+	1    4800 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5BFF2035
+P 6700 4200
+F 0 "D9" V 6746 4121 50  0000 R CNN
+F 1 "D" V 6655 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6700 4200 50  0001 C CNN
+F 3 "~" H 6700 4200 50  0001 C CNN
+	1    6700 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5BFF20C5
+P 7600 4200
+F 0 "D10" V 7646 4121 50  0000 R CNN
+F 1 "D" V 7555 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 4200 50  0001 C CNN
+F 3 "~" H 7600 4200 50  0001 C CNN
+	1    7600 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5BFF213F
+P 8450 4200
+F 0 "D11" V 8496 4121 50  0000 R CNN
+F 1 "D" V 8405 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8450 4200 50  0001 C CNN
+F 3 "~" H 8450 4200 50  0001 C CNN
+	1    8450 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5BFF21B3
+P 9350 4200
+F 0 "D12" V 9396 4121 50  0000 R CNN
+F 1 "D" V 9305 4121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9350 4200 50  0001 C CNN
+F 3 "~" H 9350 4200 50  0001 C CNN
+	1    9350 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5BFF222B
+P 9350 3400
+F 0 "D5" V 9396 3321 50  0000 R CNN
+F 1 "D" V 9305 3321 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9350 3400 50  0001 C CNN
+F 3 "~" H 9350 3400 50  0001 C CNN
+	1    9350 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5BFF229B
+P 2950 4800
+F 0 "D13" V 2996 4721 50  0000 R CNN
+F 1 "D" V 2905 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2950 4800 50  0001 C CNN
+F 3 "~" H 2950 4800 50  0001 C CNN
+	1    2950 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5BFF230B
+P 3900 4800
+F 0 "D14" V 3946 4721 50  0000 R CNN
+F 1 "D" V 3855 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3900 4800 50  0001 C CNN
+F 3 "~" H 3900 4800 50  0001 C CNN
+	1    3900 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5BFF239D
+P 4800 4800
+F 0 "D15" V 4846 4721 50  0000 R CNN
+F 1 "D" V 4755 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4800 4800 50  0001 C CNN
+F 3 "~" H 4800 4800 50  0001 C CNN
+	1    4800 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5BFF2427
+P 6700 4800
+F 0 "D16" V 6746 4721 50  0000 R CNN
+F 1 "D" V 6655 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6700 4800 50  0001 C CNN
+F 3 "~" H 6700 4800 50  0001 C CNN
+	1    6700 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5BFF24D1
+P 7600 4800
+F 0 "D17" V 7646 4721 50  0000 R CNN
+F 1 "D" V 7555 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 4800 50  0001 C CNN
+F 3 "~" H 7600 4800 50  0001 C CNN
+	1    7600 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5BFF2557
+P 8450 4800
+F 0 "D18" V 8496 4721 50  0000 R CNN
+F 1 "D" V 8405 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8450 4800 50  0001 C CNN
+F 3 "~" H 8450 4800 50  0001 C CNN
+	1    8450 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5BFF31D7
+P 9300 4800
+F 0 "D19" V 9346 4721 50  0000 R CNN
+F 1 "D" V 9255 4721 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9300 4800 50  0001 C CNN
+F 3 "~" H 9300 4800 50  0001 C CNN
+	1    9300 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5BFF327D
+P 4900 5750
+F 0 "D20" V 4946 5671 50  0000 R CNN
+F 1 "D" V 4855 5671 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4900 5750 50  0001 C CNN
+F 3 "~" H 4900 5750 50  0001 C CNN
+	1    4900 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 3550 2950 3550
+Wire Wire Line
+	2950 4350 3900 4350
+Wire Wire Line
+	2950 4950 3900 4950
+Wire Wire Line
+	3650 3250 3650 4050
+Wire Wire Line
+	3650 4050 3650 4600
+Connection ~ 3650 4050
+Wire Wire Line
+	2950 4650 3050 4650
+Wire Wire Line
+	3050 4650 3050 4600
+Connection ~ 2950 3550
+Wire Wire Line
+	2950 3550 3900 3550
+Connection ~ 3900 3550
+Wire Wire Line
+	3900 3550 4800 3550
+Connection ~ 4800 3550
+Connection ~ 3900 4350
+Wire Wire Line
+	3900 4350 4800 4350
+Connection ~ 4800 4350
+Wire Wire Line
+	4800 4350 6450 4350
+Connection ~ 6700 4350
+Wire Wire Line
+	6700 4350 7600 4350
+Connection ~ 7600 4350
+Wire Wire Line
+	7600 4350 8450 4350
+Connection ~ 8450 4350
+Wire Wire Line
+	8450 4350 9350 4350
+Connection ~ 3900 4950
+Wire Wire Line
+	3900 4950 4800 4950
+Connection ~ 4800 4950
+Wire Wire Line
+	4800 4950 6200 4950
+Connection ~ 6700 4950
+Wire Wire Line
+	6700 4950 7600 4950
+Connection ~ 7600 4950
+Wire Wire Line
+	7600 4950 8450 4950
+Connection ~ 8450 4950
+Wire Wire Line
+	8450 4950 9300 4950
+Wire Wire Line
+	3900 4650 4000 4650
+Wire Wire Line
+	4900 4650 4800 4650
+Wire Wire Line
+	6800 4650 6700 4650
+Wire Wire Line
+	7700 4650 7600 4650
+Wire Wire Line
+	8550 4650 8450 4650
+Wire Wire Line
+	9450 4650 9300 4650
+Wire Wire Line
+	3050 4050 2950 4050
+Wire Wire Line
+	2050 3250 2000 3250
+Wire Wire Line
+	9450 3250 9350 3250
+Wire Wire Line
+	4600 3250 4600 4050
+Connection ~ 4600 4050
+Wire Wire Line
+	4600 4050 4600 4650
+Wire Wire Line
+	5500 3250 5500 4050
+Connection ~ 5500 4050
+Wire Wire Line
+	5500 4050 5500 4650
+Wire Wire Line
+	4800 3550 7150 3550
+Wire Wire Line
+	5500 4650 5500 5600
+Connection ~ 5500 4650
+Wire Wire Line
+	7400 4050 7400 4650
+Wire Wire Line
+	8300 4050 8300 4650
+Wire Wire Line
+	9150 4050 9150 4650
+Wire Wire Line
+	9450 4050 9350 4050
+Wire Wire Line
+	10050 3250 10050 4050
+Connection ~ 10050 4050
+Wire Wire Line
+	10050 4050 10050 4650
+Wire Wire Line
+	6800 4050 6700 4050
+Wire Wire Line
+	7700 4050 7600 4050
+Wire Wire Line
+	8450 4050 8550 4050
+Wire Wire Line
+	4900 3250 4800 3250
+Wire Wire Line
+	4000 3250 3900 3250
+Wire Wire Line
+	3050 3250 2950 3250
+Wire Wire Line
+	2650 3250 2650 1800
+Wire Wire Line
+	3650 3250 3650 1900
+Connection ~ 3650 3250
+Wire Wire Line
+	4600 3250 4600 2000
+Connection ~ 4600 3250
+Wire Wire Line
+	5500 3250 5500 2750
+Wire Wire Line
+	5500 2750 4900 2750
+Wire Wire Line
+	4900 2750 4900 2100
+Connection ~ 5500 3250
+Wire Wire Line
+	10000 3250 10000 1600
+Wire Wire Line
+	7400 4050 7400 1700
+Connection ~ 7400 4050
+Wire Wire Line
+	8300 4050 8300 1800
+Connection ~ 8300 4050
+Wire Wire Line
+	9150 4050 9150 1900
+Connection ~ 9150 4050
+Wire Wire Line
+	7150 2000 7150 3550
+Connection ~ 7150 3550
+Wire Wire Line
+	7150 3550 9350 3550
+Wire Wire Line
+	6450 4350 6450 3000
+Wire Wire Line
+	6450 3000 7050 3000
+Wire Wire Line
+	7050 3000 7050 2100
+Connection ~ 6450 4350
+Wire Wire Line
+	6450 4350 6700 4350
+Wire Wire Line
+	6200 4950 6200 2550
+Wire Wire Line
+	6200 2550 5150 2550
+Connection ~ 6200 4950
+Wire Wire Line
+	6200 4950 6700 4950
+Wire Wire Line
+	5150 2550 5150 2300
+Wire Wire Line
+	4900 5900 5850 5900
+Wire Wire Line
+	5850 5900 5850 2650
+Wire Wire Line
+	5850 2650 5050 2650
+Wire Wire Line
+	5050 2650 5050 2200
+$Comp
+L SparkFun-Boards:ARDUINO_PRO_MICRO M2
+U 1 1 5BFF2F33
+P 6050 1800
+F 0 "M2" H 6100 2665 50  0000 C CNN
+F 1 "ARDUINO_PRO_MICRO" H 6100 2574 50  0000 C CNN
+F 2 "SparkFun-Boards:ARDUINO_PRO_MICRO" H 6080 1950 20  0001 C CNN
+F 3 "" H 6050 1800 50  0001 C CNN
+	1    6050 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 1800 5650 1800
+Wire Wire Line
+	3650 1900 5650 1900
+Wire Wire Line
+	4600 2000 5650 2000
+Wire Wire Line
+	4900 2100 5650 2100
+Wire Wire Line
+	5050 2200 5650 2200
+Wire Wire Line
+	5150 2300 5650 2300
+Wire Wire Line
+	6550 1600 10000 1600
+Wire Wire Line
+	6550 1700 7400 1700
+Wire Wire Line
+	6550 1800 8300 1800
+Wire Wire Line
+	6550 1900 9150 1900
+Wire Wire Line
+	6550 2000 7150 2000
+Wire Wire Line
+	6550 2100 7050 2100
+$Comp
+L SparkFun-Electromechanical:SWITCH-SPST-2RA M1
+U 1 1 5C00B442
+P 7400 1100
+F 0 "M1" H 7400 1315 50  0000 C CNN
+F 1 "SWITCH-SPST-2RA" H 7400 1224 50  0000 C CNN
+F 2 "SparkFun-Electromechanical:TACTILE-PTH-SIDE" H 7430 1250 20  0001 C CNN
+F 3 "" H 7400 1100 50  0001 C CNN
+	1    7400 1100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 1100 7200 1300
+Wire Wire Line
+	7200 1300 6550 1300
+Wire Wire Line
+	7600 1100 7600 1400
+Wire Wire Line
+	7600 1400 6550 1400
+Wire Wire Line
+	3900 4050 4000 4050
+Wire Wire Line
+	4800 4050 4900 4050
+$EndSCHEMATC
