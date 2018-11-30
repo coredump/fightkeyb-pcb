@@ -1,0 +1,862 @@
+EESchema Schematic File Version 4
+LIBS:fightkeyb-pcb-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED:WS2812B D21
+U 1 1 5C6E3212
+P 1625 1600
+F 0 "D21" H 1966 1646 50  0000 L CNN
+F 1 "WS2812B" H 1966 1555 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 1675 1300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1725 1225 50  0001 L TNN
+	1    1625 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D22
+U 1 1 5C6E32F8
+P 3075 1600
+F 0 "D22" H 3416 1646 50  0000 L CNN
+F 1 "WS2812B" H 3416 1555 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 3125 1300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3175 1225 50  0001 L TNN
+	1    3075 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D23
+U 1 1 5C6E334C
+P 4400 1600
+F 0 "D23" H 4741 1646 50  0000 L CNN
+F 1 "WS2812B" H 4741 1555 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 4450 1300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4500 1225 50  0001 L TNN
+	1    4400 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D24
+U 1 1 5C6E33ED
+P 5775 1600
+F 0 "D24" H 6116 1646 50  0000 L CNN
+F 1 "WS2812B" H 6116 1555 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 5825 1300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5875 1225 50  0001 L TNN
+	1    5775 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D26
+U 1 1 5C6E3702
+P 3075 2900
+F 0 "D26" H 3416 2946 50  0000 L CNN
+F 1 "WS2812B" H 3416 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 3125 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3175 2525 50  0001 L TNN
+	1    3075 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D27
+U 1 1 5C6E3774
+P 4400 2900
+F 0 "D27" H 4741 2946 50  0000 L CNN
+F 1 "WS2812B" H 4741 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 4450 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4500 2525 50  0001 L TNN
+	1    4400 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D28
+U 1 1 5C6E3814
+P 5775 2900
+F 0 "D28" H 6116 2946 50  0000 L CNN
+F 1 "WS2812B" H 6116 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 5825 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5875 2525 50  0001 L TNN
+	1    5775 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D33
+U 1 1 5C6E3948
+P 3075 4075
+F 0 "D33" H 3416 4121 50  0000 L CNN
+F 1 "WS2812B" H 3416 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 3125 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3175 3700 50  0001 L TNN
+	1    3075 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D34
+U 1 1 5C6E39F2
+P 4400 4075
+F 0 "D34" H 4741 4121 50  0000 L CNN
+F 1 "WS2812B" H 4741 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 4450 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4500 3700 50  0001 L TNN
+	1    4400 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D35
+U 1 1 5C6E3A93
+P 5775 4075
+F 0 "D35" H 6116 4121 50  0000 L CNN
+F 1 "WS2812B" H 6116 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 5825 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5875 3700 50  0001 L TNN
+	1    5775 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D29
+U 1 1 5C6E41DA
+P 7325 2900
+F 0 "D29" H 7666 2946 50  0000 L CNN
+F 1 "WS2812B" H 7666 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 7375 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7425 2525 50  0001 L TNN
+	1    7325 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D30
+U 1 1 5C6E4292
+P 8525 2900
+F 0 "D30" H 8866 2946 50  0000 L CNN
+F 1 "WS2812B" H 8866 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 8575 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8625 2525 50  0001 L TNN
+	1    8525 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D31
+U 1 1 5C6E4332
+P 9725 2900
+F 0 "D31" H 10066 2946 50  0000 L CNN
+F 1 "WS2812B" H 10066 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 9775 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9825 2525 50  0001 L TNN
+	1    9725 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D32
+U 1 1 5C6E43BC
+P 10825 2900
+F 0 "D32" H 11166 2946 50  0000 L CNN
+F 1 "WS2812B" H 11166 2855 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 10875 2600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 10925 2525 50  0001 L TNN
+	1    10825 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D36
+U 1 1 5C6E47C8
+P 7325 4075
+F 0 "D36" H 7666 4121 50  0000 L CNN
+F 1 "WS2812B" H 7666 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 7375 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7425 3700 50  0001 L TNN
+	1    7325 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D37
+U 1 1 5C6E4858
+P 8525 4075
+F 0 "D37" H 8866 4121 50  0000 L CNN
+F 1 "WS2812B" H 8866 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 8575 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8625 3700 50  0001 L TNN
+	1    8525 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D38
+U 1 1 5C6E496E
+P 9725 4075
+F 0 "D38" H 10066 4121 50  0000 L CNN
+F 1 "WS2812B" H 10066 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 9775 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9825 3700 50  0001 L TNN
+	1    9725 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D39
+U 1 1 5C6E49FE
+P 10825 4075
+F 0 "D39" H 11166 4121 50  0000 L CNN
+F 1 "WS2812B" H 11166 4030 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 10875 3775 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 10925 3700 50  0001 L TNN
+	1    10825 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D25
+U 1 1 5C6E4A88
+P 10825 1600
+F 0 "D25" H 11166 1646 50  0000 L CNN
+F 1 "WS2812B" H 11166 1555 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 10875 1300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 10925 1225 50  0001 L TNN
+	1    10825 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D40
+U 1 1 5C6E4BA6
+P 5775 5350
+F 0 "D40" H 6116 5396 50  0000 L CNN
+F 1 "WS2812B" H 6116 5305 50  0000 L CNN
+F 2 "Sparkfun Leds:WS2812B" H 5825 5050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5875 4975 50  0001 L TNN
+	1    5775 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 5C6E4F94
+P 1000 1600
+F 0 "C1" H 1092 1646 50  0000 L CNN
+F 1 "C_Small" H 1092 1555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1000 1600 50  0001 C CNN
+F 3 "~" H 1000 1600 50  0001 C CNN
+	1    1000 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 5C6E5158
+P 2475 1600
+F 0 "C2" H 2567 1646 50  0000 L CNN
+F 1 "C_Small" H 2567 1555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2475 1600 50  0001 C CNN
+F 3 "~" H 2475 1600 50  0001 C CNN
+	1    2475 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C3
+U 1 1 5C6E528A
+P 3900 1600
+F 0 "C3" H 3992 1646 50  0000 L CNN
+F 1 "C_Small" H 3992 1555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3900 1600 50  0001 C CNN
+F 3 "~" H 3900 1600 50  0001 C CNN
+	1    3900 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C4
+U 1 1 5C6E5330
+P 5275 1600
+F 0 "C4" H 5367 1646 50  0000 L CNN
+F 1 "C_Small" H 5367 1555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5275 1600 50  0001 C CNN
+F 3 "~" H 5275 1600 50  0001 C CNN
+	1    5275 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C5
+U 1 1 5C6E53C4
+P 10350 1600
+F 0 "C5" H 10442 1646 50  0000 L CNN
+F 1 "C_Small" H 10442 1555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 10350 1600 50  0001 C CNN
+F 3 "~" H 10350 1600 50  0001 C CNN
+	1    10350 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C12
+U 1 1 5C6E54FC
+P 10350 2925
+F 0 "C12" H 10442 2971 50  0000 L CNN
+F 1 "C_Small" H 10442 2880 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 10350 2925 50  0001 C CNN
+F 3 "~" H 10350 2925 50  0001 C CNN
+	1    10350 2925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C11
+U 1 1 5C6E558E
+P 9225 2900
+F 0 "C11" H 9317 2946 50  0000 L CNN
+F 1 "C_Small" H 9317 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9225 2900 50  0001 C CNN
+F 3 "~" H 9225 2900 50  0001 C CNN
+	1    9225 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C10
+U 1 1 5C6E5632
+P 8000 2900
+F 0 "C10" H 8092 2946 50  0000 L CNN
+F 1 "C_Small" H 8092 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8000 2900 50  0001 C CNN
+F 3 "~" H 8000 2900 50  0001 C CNN
+	1    8000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C9
+U 1 1 5C6E56DA
+P 6775 2900
+F 0 "C9" H 6867 2946 50  0000 L CNN
+F 1 "C_Small" H 6867 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6775 2900 50  0001 C CNN
+F 3 "~" H 6775 2900 50  0001 C CNN
+	1    6775 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C8
+U 1 1 5C6E5788
+P 5275 2900
+F 0 "C8" H 5367 2946 50  0000 L CNN
+F 1 "C_Small" H 5367 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5275 2900 50  0001 C CNN
+F 3 "~" H 5275 2900 50  0001 C CNN
+	1    5275 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C7
+U 1 1 5C6E5844
+P 3900 2900
+F 0 "C7" H 3992 2946 50  0000 L CNN
+F 1 "C_Small" H 3992 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3900 2900 50  0001 C CNN
+F 3 "~" H 3900 2900 50  0001 C CNN
+	1    3900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C14
+U 1 1 5C6E58F8
+P 3900 4075
+F 0 "C14" H 3992 4121 50  0000 L CNN
+F 1 "C_Small" H 3992 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3900 4075 50  0001 C CNN
+F 3 "~" H 3900 4075 50  0001 C CNN
+	1    3900 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C15
+U 1 1 5C6E599A
+P 5275 4075
+F 0 "C15" H 5367 4121 50  0000 L CNN
+F 1 "C_Small" H 5367 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5275 4075 50  0001 C CNN
+F 3 "~" H 5275 4075 50  0001 C CNN
+	1    5275 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C16
+U 1 1 5C6E5AFE
+P 6775 4075
+F 0 "C16" H 6867 4121 50  0000 L CNN
+F 1 "C_Small" H 6867 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6775 4075 50  0001 C CNN
+F 3 "~" H 6775 4075 50  0001 C CNN
+	1    6775 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C17
+U 1 1 5C6E5BC8
+P 8000 4075
+F 0 "C17" H 8092 4121 50  0000 L CNN
+F 1 "C_Small" H 8092 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8000 4075 50  0001 C CNN
+F 3 "~" H 8000 4075 50  0001 C CNN
+	1    8000 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C18
+U 1 1 5C6E5C7A
+P 9225 4075
+F 0 "C18" H 9317 4121 50  0000 L CNN
+F 1 "C_Small" H 9317 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9225 4075 50  0001 C CNN
+F 3 "~" H 9225 4075 50  0001 C CNN
+	1    9225 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C19
+U 1 1 5C6E5D2E
+P 10350 4075
+F 0 "C19" H 10442 4121 50  0000 L CNN
+F 1 "C_Small" H 10442 4030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 10350 4075 50  0001 C CNN
+F 3 "~" H 10350 4075 50  0001 C CNN
+	1    10350 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small_US R1
+U 1 1 5C6E6390
+P 1225 1175
+F 0 "R1" V 1430 1175 50  0000 C CNN
+F 1 "R_Small_US" V 1339 1175 50  0000 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid-Back" H 1225 1175 50  0001 C CNN
+F 3 "~" H 1225 1175 50  0001 C CNN
+	1    1225 1175
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3075 1900 2475 1900
+Connection ~ 1625 1900
+Wire Wire Line
+	3075 1900 3900 1900
+Wire Wire Line
+	5775 1900 10350 1900
+Connection ~ 3075 1900
+Connection ~ 5775 1900
+Connection ~ 4400 1900
+Wire Wire Line
+	1625 3200 2400 3200
+Connection ~ 3075 3200
+Wire Wire Line
+	3075 3200 3900 3200
+Connection ~ 4400 3200
+Wire Wire Line
+	4400 3200 5275 3200
+Connection ~ 5775 3200
+Wire Wire Line
+	5775 3200 6775 3200
+Connection ~ 7325 3200
+Connection ~ 8525 3200
+Wire Wire Line
+	8525 3200 9225 3200
+Connection ~ 9725 3200
+Connection ~ 10825 3200
+Wire Wire Line
+	10825 3200 10850 3200
+Wire Wire Line
+	1625 3200 1625 4375
+Wire Wire Line
+	1625 4375 2400 4375
+Connection ~ 1625 3200
+Wire Wire Line
+	3075 4375 3900 4375
+Connection ~ 3075 4375
+Connection ~ 4400 4375
+Wire Wire Line
+	4400 4375 5275 4375
+Connection ~ 5775 4375
+Connection ~ 7325 4375
+Wire Wire Line
+	7325 4375 8000 4375
+Connection ~ 8525 4375
+Wire Wire Line
+	10825 4375 10350 4375
+Connection ~ 9725 4375
+Wire Wire Line
+	1625 4375 1625 5650
+Wire Wire Line
+	1625 5650 5100 5650
+Connection ~ 1625 4375
+Wire Wire Line
+	775  1300 900  1300
+Connection ~ 1625 1300
+Wire Wire Line
+	1625 1300 2475 1300
+Connection ~ 3075 1300
+Wire Wire Line
+	3075 1300 3900 1300
+Connection ~ 4400 1300
+Wire Wire Line
+	4400 1300 5275 1300
+Connection ~ 5775 1300
+Wire Wire Line
+	5775 1300 10350 1300
+Wire Wire Line
+	10825 2600 10350 2600
+Wire Wire Line
+	900  2600 900  1300
+Connection ~ 3075 2600
+Wire Wire Line
+	3075 2600 2400 2600
+Connection ~ 4400 2600
+Wire Wire Line
+	4400 2600 3900 2600
+Connection ~ 5775 2600
+Wire Wire Line
+	5775 2600 5275 2600
+Connection ~ 7325 2600
+Wire Wire Line
+	7325 2600 6775 2600
+Connection ~ 8525 2600
+Wire Wire Line
+	8525 2600 8000 2600
+Connection ~ 9725 2600
+Wire Wire Line
+	9725 2600 9225 2600
+Connection ~ 900  1300
+Wire Wire Line
+	900  2600 900  3775
+Connection ~ 900  2600
+Wire Wire Line
+	3075 3775 3900 3775
+Connection ~ 3075 3775
+Connection ~ 4400 3775
+Wire Wire Line
+	4400 3775 5275 3775
+Connection ~ 5775 3775
+Wire Wire Line
+	5775 3775 6775 3775
+Connection ~ 7325 3775
+Wire Wire Line
+	7325 3775 8000 3775
+Connection ~ 8525 3775
+Wire Wire Line
+	8525 3775 9225 3775
+Connection ~ 9725 3775
+Wire Wire Line
+	9725 3775 10350 3775
+Wire Wire Line
+	5775 5050 5100 5050
+Wire Wire Line
+	900  5050 900  3775
+Connection ~ 900  3775
+$Comp
+L Device:C_Small C6
+U 1 1 5C6EC81E
+P 2400 2875
+F 0 "C6" H 2492 2921 50  0000 L CNN
+F 1 "C_Small" H 2492 2830 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2400 2875 50  0001 C CNN
+F 3 "~" H 2400 2875 50  0001 C CNN
+	1    2400 2875
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C13
+U 1 1 5C6EC8FC
+P 2400 4050
+F 0 "C13" H 2492 4096 50  0000 L CNN
+F 1 "C_Small" H 2492 4005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2400 4050 50  0001 C CNN
+F 3 "~" H 2400 4050 50  0001 C CNN
+	1    2400 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C20
+U 1 1 5C6EC9C6
+P 5100 5350
+F 0 "C20" H 5192 5396 50  0000 L CNN
+F 1 "C_Small" H 5192 5305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5100 5350 50  0001 C CNN
+F 3 "~" H 5100 5350 50  0001 C CNN
+	1    5100 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 1500 1000 1300
+Wire Wire Line
+	900  1300 1000 1300
+Connection ~ 1000 1300
+Wire Wire Line
+	1000 1300 1625 1300
+Wire Wire Line
+	2475 1700 2475 1900
+Connection ~ 2475 1900
+Wire Wire Line
+	2475 1900 1625 1900
+Wire Wire Line
+	1625 1900 1000 1900
+Wire Wire Line
+	1625 1900 1625 3200
+Wire Wire Line
+	1000 1700 1000 1900
+Connection ~ 1000 1900
+Wire Wire Line
+	1000 1900 775  1900
+Wire Wire Line
+	2475 1500 2475 1300
+Connection ~ 2475 1300
+Wire Wire Line
+	2475 1300 3075 1300
+Wire Wire Line
+	3900 1500 3900 1300
+Connection ~ 3900 1300
+Wire Wire Line
+	3900 1300 4400 1300
+Wire Wire Line
+	3900 1700 3900 1900
+Connection ~ 3900 1900
+Wire Wire Line
+	3900 1900 4400 1900
+Wire Wire Line
+	5275 1500 5275 1300
+Connection ~ 5275 1300
+Wire Wire Line
+	5275 1300 5775 1300
+Wire Wire Line
+	5275 1700 5275 1900
+Wire Wire Line
+	4400 1900 5275 1900
+Connection ~ 5275 1900
+Wire Wire Line
+	5275 1900 5775 1900
+Wire Wire Line
+	10350 1500 10350 1300
+Connection ~ 10350 1300
+Wire Wire Line
+	10350 1300 10825 1300
+Wire Wire Line
+	10350 1700 10350 1900
+Connection ~ 10350 1900
+Wire Wire Line
+	10350 1900 10825 1900
+Wire Wire Line
+	2400 2775 2400 2600
+Connection ~ 2400 2600
+Wire Wire Line
+	2400 2600 900  2600
+Wire Wire Line
+	2400 2975 2400 3200
+Connection ~ 2400 3200
+Wire Wire Line
+	2400 3200 3075 3200
+Wire Wire Line
+	3900 2800 3900 2600
+Connection ~ 3900 2600
+Wire Wire Line
+	3900 2600 3075 2600
+Wire Wire Line
+	3900 3000 3900 3200
+Connection ~ 3900 3200
+Wire Wire Line
+	3900 3200 4400 3200
+Wire Wire Line
+	5275 2800 5275 2600
+Connection ~ 5275 2600
+Wire Wire Line
+	5275 2600 4400 2600
+Wire Wire Line
+	5275 3000 5275 3200
+Connection ~ 5275 3200
+Wire Wire Line
+	5275 3200 5775 3200
+Wire Wire Line
+	6775 2800 6775 2600
+Connection ~ 6775 2600
+Wire Wire Line
+	6775 2600 5775 2600
+Wire Wire Line
+	6775 3000 6775 3200
+Connection ~ 6775 3200
+Wire Wire Line
+	6775 3200 7325 3200
+Wire Wire Line
+	8000 2800 8000 2600
+Connection ~ 8000 2600
+Wire Wire Line
+	8000 2600 7325 2600
+Wire Wire Line
+	8000 3000 8000 3200
+Wire Wire Line
+	7325 3200 8000 3200
+Connection ~ 8000 3200
+Wire Wire Line
+	8000 3200 8525 3200
+Wire Wire Line
+	9225 2800 9225 2600
+Connection ~ 9225 2600
+Wire Wire Line
+	9225 2600 8525 2600
+Wire Wire Line
+	9225 3000 9225 3200
+Connection ~ 9225 3200
+Wire Wire Line
+	9225 3200 9725 3200
+Wire Wire Line
+	10350 2825 10350 2600
+Connection ~ 10350 2600
+Wire Wire Line
+	10350 2600 9725 2600
+Wire Wire Line
+	10350 3025 10350 3200
+Wire Wire Line
+	9725 3200 10350 3200
+Connection ~ 10350 3200
+Wire Wire Line
+	10350 3200 10825 3200
+Wire Wire Line
+	2400 3950 2400 3775
+Wire Wire Line
+	900  3775 2400 3775
+Connection ~ 2400 3775
+Wire Wire Line
+	2400 3775 3075 3775
+Wire Wire Line
+	2400 4150 2400 4375
+Connection ~ 2400 4375
+Wire Wire Line
+	2400 4375 3075 4375
+Wire Wire Line
+	3900 3975 3900 3775
+Connection ~ 3900 3775
+Wire Wire Line
+	3900 3775 4400 3775
+Wire Wire Line
+	3900 4175 3900 4375
+Connection ~ 3900 4375
+Wire Wire Line
+	3900 4375 4400 4375
+Wire Wire Line
+	5275 3975 5275 3775
+Connection ~ 5275 3775
+Wire Wire Line
+	5275 3775 5775 3775
+Wire Wire Line
+	5275 4175 5275 4375
+Connection ~ 5275 4375
+Wire Wire Line
+	5275 4375 5775 4375
+Wire Wire Line
+	6775 3975 6775 3775
+Connection ~ 6775 3775
+Wire Wire Line
+	6775 3775 7325 3775
+Wire Wire Line
+	6775 4175 6775 4375
+Wire Wire Line
+	5775 4375 6775 4375
+Connection ~ 6775 4375
+Wire Wire Line
+	6775 4375 7325 4375
+Wire Wire Line
+	8000 3975 8000 3775
+Connection ~ 8000 3775
+Wire Wire Line
+	8000 3775 8525 3775
+Wire Wire Line
+	8000 4175 8000 4375
+Connection ~ 8000 4375
+Wire Wire Line
+	8000 4375 8525 4375
+Wire Wire Line
+	9225 3975 9225 3775
+Connection ~ 9225 3775
+Wire Wire Line
+	9225 3775 9725 3775
+Wire Wire Line
+	9225 4175 9225 4375
+Wire Wire Line
+	8525 4375 9225 4375
+Connection ~ 9225 4375
+Wire Wire Line
+	9225 4375 9725 4375
+Wire Wire Line
+	10350 3975 10350 3775
+Connection ~ 10350 3775
+Wire Wire Line
+	10350 3775 10825 3775
+Wire Wire Line
+	10350 4175 10350 4375
+Connection ~ 10350 4375
+Wire Wire Line
+	10350 4375 9725 4375
+Wire Wire Line
+	5100 5250 5100 5050
+Connection ~ 5100 5050
+Wire Wire Line
+	5100 5050 900  5050
+Wire Wire Line
+	5100 5450 5100 5650
+Connection ~ 5100 5650
+Wire Wire Line
+	5100 5650 5775 5650
+Wire Wire Line
+	1325 1175 1325 1600
+Wire Wire Line
+	1925 1600 2775 1600
+Wire Wire Line
+	3375 1600 4100 1600
+Wire Wire Line
+	4700 1600 5475 1600
+Wire Wire Line
+	6075 1600 10525 1600
+Wire Wire Line
+	11125 1600 11125 2425
+Wire Wire Line
+	11125 2425 2775 2425
+Wire Wire Line
+	2775 2425 2775 2900
+Wire Wire Line
+	3375 2900 4100 2900
+Wire Wire Line
+	4700 2900 5475 2900
+Wire Wire Line
+	6075 2900 7025 2900
+Wire Wire Line
+	7625 2900 8225 2900
+Wire Wire Line
+	8825 2900 9425 2900
+Wire Wire Line
+	10025 2900 10525 2900
+Wire Wire Line
+	11125 2900 11125 3450
+Wire Wire Line
+	11125 3450 2775 3450
+Wire Wire Line
+	2775 3450 2775 4075
+Wire Wire Line
+	3375 4075 4100 4075
+Wire Wire Line
+	4700 4075 5475 4075
+Wire Wire Line
+	6075 4075 7025 4075
+Wire Wire Line
+	7625 4075 8225 4075
+Wire Wire Line
+	8825 4075 9425 4075
+Wire Wire Line
+	10025 4075 10525 4075
+Wire Wire Line
+	11125 4075 11125 4750
+Wire Wire Line
+	11125 4750 5475 4750
+Wire Wire Line
+	5475 4750 5475 5350
+Text HLabel 775  1300 0    50   Input ~ 0
+VCC
+Text HLabel 775  1900 0    50   Input ~ 0
+GND
+Text HLabel 1125 1175 0    50   Input ~ 0
+DIN
+Text HLabel 6075 5350 2    50   Output ~ 0
+DOUT
+$EndSCHEMATC

@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -612,8 +612,6 @@ Wire Wire Line
 Connection ~ 5800 5150
 Wire Wire Line
 	5800 5150 5800 5200
-Wire Wire Line
-	3250 5350 4100 5350
 Connection ~ 3250 5350
 Connection ~ 4300 5350
 Wire Wire Line
@@ -667,22 +665,11 @@ Wire Wire Line
 Wire Wire Line
 	3250 6350 3950 6350
 Wire Wire Line
-	3950 6350 3950 2300
-Wire Wire Line
-	3950 2300 5400 2300
-Wire Wire Line
-	5400 2300 5400 2150
-Wire Wire Line
-	4100 5350 4100 2375
-Wire Wire Line
 	4100 2375 5500 2375
 Wire Wire Line
 	5500 2375 5500 2050
 Wire Wire Line
 	5500 2050 5400 2050
-Connection ~ 4100 5350
-Wire Wire Line
-	4100 5350 4300 5350
 Wire Wire Line
 	4575 3925 4575 2500
 Wire Wire Line
@@ -734,4 +721,49 @@ Wire Wire Line
 	5400 1250 6275 1250
 Wire Wire Line
 	6275 1250 6275 1025
+Wire Wire Line
+	4100 5350 4300 5350
+Wire Wire Line
+	3250 5350 4100 5350
+Connection ~ 4100 5350
+Wire Wire Line
+	4100 5350 4100 2375
+Wire Wire Line
+	5400 2300 5400 2150
+Wire Wire Line
+	3950 2300 5400 2300
+Wire Wire Line
+	3950 6350 3950 2300
+$Sheet
+S 7550 2200 1450 800 
+U 5C6DFF77
+F0 "Led Matrix" 50
+F1 "led_matrix.sch" 50
+F2 "VCC" I L 7550 2300 50 
+F3 "GND" I L 7550 2425 50 
+F4 "DIN" I L 7550 2550 50 
+F5 "DOUT" O L 7550 2675 50 
+$EndSheet
+Wire Wire Line
+	4000 1250 3700 1250
+Wire Wire Line
+	3700 1250 3700 675 
+Wire Wire Line
+	3700 675  7175 675 
+Wire Wire Line
+	7175 675  7175 2425
+Wire Wire Line
+	7175 2425 7550 2425
+Wire Wire Line
+	5400 1350 6950 1350
+Wire Wire Line
+	6950 1350 6950 2300
+Wire Wire Line
+	6950 2300 7550 2300
+Wire Wire Line
+	7550 2550 6650 2550
+Wire Wire Line
+	6650 2550 6650 1450
+Wire Wire Line
+	6650 1450 5400 1450
 $EndSCHEMATC
