@@ -1,0 +1,72 @@
+Source,/home/coredump/dev/fightkeyb-pcb/fightkeyb-pcb.sch
+Kicad Rev,Eeschema 5.0.1
+Generated Date,Fri 30 Nov 2018 03:20:43 AM EST
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+D1,1N4148,Device,D_Small
+D2,1N4148,Device,D_Small
+D3,1N4148,Device,D_Small
+D4,1N4148,Device,D_Small
+D5,1N4148,Device,D_Small
+D6,1N4148,Device,D_Small
+D7,1N4148,Device,D_Small
+D8,1N4148,Device,D_Small
+D9,1N4148,Device,D_Small
+D10,1N4148,Device,D_Small
+D11,1N4148,Device,D_Small
+D12,1N4148,Device,D_Small
+D19,1N4148,Device,D_Small
+D18,1N4148,Device,D_Small
+D17,1N4148,Device,D_Small
+D16,1N4148,Device,D_Small
+D15,1N4148,Device,D_Small
+D14,1N4148,Device,D_Small
+D13,1N4148,Device,D_Small
+D20,1N4148,Device,D_Small
+SW1,SW_SPST,Switch,SW_SPST
+D21,WS2812B,LED,WS2812B
+D22,WS2812B,LED,WS2812B
+D23,WS2812B,LED,WS2812B
+D24,WS2812B,LED,WS2812B
+D26,WS2812B,LED,WS2812B
+D27,WS2812B,LED,WS2812B
+D28,WS2812B,LED,WS2812B
+D33,WS2812B,LED,WS2812B
+D34,WS2812B,LED,WS2812B
+D35,WS2812B,LED,WS2812B
+D29,WS2812B,LED,WS2812B
+D30,WS2812B,LED,WS2812B
+D31,WS2812B,LED,WS2812B
+D32,WS2812B,LED,WS2812B
+D36,WS2812B,LED,WS2812B
+D37,WS2812B,LED,WS2812B
+D38,WS2812B,LED,WS2812B
+D39,WS2812B,LED,WS2812B
+D25,WS2812B,LED,WS2812B
+D40,WS2812B,LED,WS2812B
+C1,0u1,Device,C_Small
+C2,0u1,Device,C_Small
+C3,0u1,Device,C_Small
+C4,0u1,Device,C_Small
+C5,0u1,Device,C_Small
+C12,0u1,Device,C_Small
+C11,0u1,Device,C_Small
+C10,0u1,Device,C_Small
+C9,0u1,Device,C_Small
+C8,0u1,Device,C_Small
+C7,0u1,Device,C_Small
+C14,0u1,Device,C_Small
+C15,0u1,Device,C_Small
+C16,0u1,Device,C_Small
+C17,0u1,Device,C_Small
+C18,0u1,Device,C_Small
+C19,0u1,Device,C_Small
+R1,330R,Device,R_Small_US
+C6,0u1,Device,C_Small
+C13,0u1,Device,C_Small
+C20,0u1,Device,C_Small
