@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.1*
-G04 #@! TF.CreationDate,2018-12-01T17:23:11-05:00*
-G04 #@! TF.ProjectId,fightkeyb-pcb-bottom,66696768746B6579622D7063622D626F,rev?*
+G04 #@! TF.CreationDate,2018-12-01T17:23:22-05:00*
+G04 #@! TF.ProjectId,fightkeyb-pcb-switch,66696768746B6579622D7063622D7377,rev?*
 G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Soldermask,Bot*
+G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.0.1) date Sat 01 Dec 2018 05:23:11 PM EST*
+G04 Created by KiCad (PCBNEW 5.0.1) date Sat 01 Dec 2018 05:23:22 PM EST*
 %MOMM*%
 %LPD*%
 G01*
